@@ -2,7 +2,7 @@
 
 This project presents a simple and interactive visualization of the **nuclear fission process** using web technologies. The objective of this project is to demonstrate how a heavy atomic nucleus splits into smaller nuclei after absorbing a neutron, releasing energy and additional neutrons that may initiate a chain reaction. The visualization focuses on the well-known fission reaction of Uranium-235 and aims to help viewers understand the structure and outcome of the reaction in a clear and intuitive way.
 
-<br><br>
+<br>
 
 ## 🌐 Project Link
 
@@ -12,7 +12,7 @@ The visualization can be accessed through the following link:
 
 The webpage displays the nuclear reaction where Uranium-235 absorbs a neutron and splits into Barium-144 and Krypton-89 while releasing additional neutrons and a large amount of energy. The representation emphasizes the symbolic structure of the reaction and provides a minimal yet focused interface to illustrate the scientific concept.
 
-<br><br>
+<br>
 
 ## 🧪 Concept of Nuclear Fission
 
@@ -24,7 +24,7 @@ U-235 + n → Ba-144 + Kr-89 + 3n + Energy
 
 This reaction demonstrates how a small amount of mass is converted into a large quantity of energy according to the principles of nuclear physics.
 
-<br><br>
+<br>
 
 ## 🎯 Purpose of the Project
 
@@ -32,7 +32,7 @@ The primary objective of this project is to provide a **clear and simple visual 
 
 It also highlights how scientific ideas can be communicated effectively through simple web-based visualizations without relying on complex simulations.
 
-<br><br>
+<br>
 
 ## 🛠️ Technologies Used
 
