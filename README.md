@@ -39,6 +39,4 @@ It also highlights how scientific ideas can be communicated effectively through 
 * **HTML** for structuring the nuclear reaction representation
 * **CSS** for styling and visual arrangement of atomic symbols
 
-<br><br>
-
-<a href=""></a>
+<br>
